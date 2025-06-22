@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashay Patil</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Developer/Analyst from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1B98E0&center=true&vCenter=true&width=435&lines=Python+Developer+%7C+ML+Enthusiast;Open+Source+Contributor+%7C+Team+Player;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
